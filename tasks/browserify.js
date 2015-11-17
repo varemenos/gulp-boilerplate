@@ -1,3 +1,4 @@
+// npm i -D babelify browserify vinyl-source-stream babel-preset-es2015 babel-preset-react
 var babelify = require('babelify');
 var browserify = require('browserify');
 var source = require('vinyl-source-stream');
