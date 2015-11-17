@@ -1,5 +1,5 @@
+// npm i -D electron-connect
 var electron = require('electron-connect').server.create();
-var changed = require('gulp-changed');
 
 module.exports = function (gulp, options, plugins) {
 	gulp.task('serve', function () {
