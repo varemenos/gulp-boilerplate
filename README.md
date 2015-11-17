@@ -1,4 +1,4 @@
-# grunt-boilerplate
+# gulp-boilerplate
 
 WIP
 
